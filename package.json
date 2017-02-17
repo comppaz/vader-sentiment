@@ -1,0 +1,33 @@
+{
+  "name": "vader-sentiment",
+  "version": "0.0.1",
+  "description": "Port of the VADER Sentiment Analysis tool. This tool provides a lexicon and rule-based sentiment analysis specifically designed for social media content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comppaz/vader-sentiment.git"
+  },
+  "keywords": [
+    "vader",
+    "sentiment",
+    "analysis",
+    "sentiment",
+    "social",
+    "media",
+    "text",
+    "analysis"
+  ],
+  "author": "Antonio Maiolo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comppaz/vader-sentiment/issues"
+  },
+  "homepage": "https://github.com/comppaz/vader-sentiment#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
